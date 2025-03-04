@@ -1,0 +1,98 @@
+{
+  "folder-color.pathColors": [
+    {
+      "folderPath": "MyRepo\\CSS folder 2\\",
+      "color": "foldercolorizer.color_00cc66"
+    },
+    {
+      "folderPath": "MyRepo\\CSS html Practice\\",
+      "badge": "🙂",
+      "color": "foldercolorizer.color_3300ff"
+    },
+    {
+      "folderPath": "MyRepo\\CSS html Practice\\img\\",
+      "color": "foldercolorizer.color_3300ff"
+    },
+    {
+      "folderPath": "MyRepo\\CSS folder 2\\01_targeted_selectors.html\\",
+      "color": "foldercolorizer.color_00cc33"
+    },
+    {
+      "folderPath": "MyRepo\\CSS folder 2\\02_nth_child.html\\",
+      "color": "foldercolorizer.color_00cc33"
+    },
+    {
+      "folderPath": "MyRepo\\CSS folder 2\\03_before_after.html\\",
+      "color": "foldercolorizer.color_00cc33"
+    },
+    {
+      "folderPath": "MyRepo\\CSS folder 2\\04_box_shadows.html\\",
+      "color": "foldercolorizer.color_00cc33"
+    },
+    {
+      "folderPath": "MyRepo\\CSS folder 2\\05_text_shadows.html\\",
+      "color": "foldercolorizer.color_00cc33"
+    },
+    {
+      "folderPath": "MyRepo\\CSS folder 2\\06_variables.html\\",
+      "color": "foldercolorizer.color_00cc33"
+    },
+    {
+      "folderPath": "MyRepo\\CSS folder 2\\07_keyframes.html\\",
+      "color": "foldercolorizer.color_00cc33"
+    },
+    {
+      "folderPath": "MyRepo\\CSS folder 2\\08_keyframes2.html\\",
+      "color": "foldercolorizer.color_00cc33"
+    },
+    {
+      "folderPath": "MyRepo\\CSS folder 2\\09_transitions.html\\",
+      "color": "foldercolorizer.color_00cc33"
+    },
+    {
+      "folderPath": "MyRepo\\CSS folder 2\\10_transform.html\\",
+      "color": "foldercolorizer.color_00cc33"
+    },
+    {
+      "folderPath": "MyRepo\\CSS html Practice\\img\\kelly-sikkema-00W-CT_859o-unsplash.jpg\\",
+
+    },
+    {
+      "folderPath": "MyRepo\\CSS html Practice\\index.html\\",
+
+    },
+    {
+      "folderPath": "MyRepo\\CSS html Practice\\style.css\\",
+     
+    },
+    {
+      "folderPath": "MyRepo\\edgeledger_website\\",
+      "color": "foldercolorizer.color_cccc66"
+    }
+  ],
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#1f6fd0",
+    "activityBar.background": "#1f6fd0",
+    "activityBar.foreground": "#000000",
+    "activityBar.inactiveForeground": "#00000099",
+    "activityBarBadge.background": "#ee90bb",
+    "activityBarBadge.foreground": "#000000",
+    "commandCenter.border": "#00000099",
+    "editorGroup.border": "#1f6fd0",
+    "panel.border": "#1f6fd0",
+    "sideBar.border": "#1f6fd0",
+    "statusBar.background": "#1857a4",
+    "statusBar.border": "#1857a4",
+    "statusBar.foreground": "#000000",
+    "statusBarItem.hoverBackground": "#1f6fd0",
+    "statusBarItem.remoteBackground": "#1857a4",
+    "statusBarItem.remoteForeground": "#000000",
+    "tab.activeBorder": "#1f6fd0",
+    "titleBar.activeBackground": "#1857a4",
+    "titleBar.activeForeground": "#000000",
+    "titleBar.border": "#1857a4",
+    "titleBar.inactiveBackground": "#1857a499",
+    "titleBar.inactiveForeground": "#00000099"
+  },
+  "peacock.color": "#1857a4"
+}
